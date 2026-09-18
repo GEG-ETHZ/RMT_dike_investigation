@@ -9,4 +9,6 @@ The Workflow of the Project is as follows
 2) Topography file creation with Python/TIF_to_DEM.py
 3) Model creation with mtcode
 4) Model editing with python files
-5) Data and model visualization with MATLAB files
+5) Data editing with mtcode
+6) Forward/Inverse runs with ModEM
+7) Data and model visualization with MATLAB files
