@@ -1,6 +1,8 @@
 # RMT_dike_investigation
 This repository contains all code used in the Master's thesis "The Potential of Radiomagnetotellurics for Detecting Dike Instabilities". It includes both original code developed for this thesis and modified code based on existing software or scripts.
 
+The Folder mtcode contains all scripts from the [mtcode](https://github.com/darcycordell/mtcode) repository which were adapted for the use of RMT.
+
 ## Workflow
 The Workflow of the Project is as follows
 1) Raw Data visualization with python files
